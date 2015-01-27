@@ -1,0 +1,3 @@
+module VagrantHaproxyProvisioner
+  VERSION = "0.0.1"
+end
